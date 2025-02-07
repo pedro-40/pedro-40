@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm pedro</h1>
-<h3 align="center">A passionate frontend developer from iran</h3>
+<h3 align="center">A passionate developer from iran</h3>
 <img align="right" alt="erfan" width="250" src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhVpdY3T94f4x7IP6hu7DAI_CMzm6syA1Gw&s>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-nemati&label=Profile%20views&color=0e75b6&style=flat" alt="erfan-nemati" /> </p>
