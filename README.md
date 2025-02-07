@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erfan-nemati&label=Profile%20views&color=0e75b6&style=flat" alt="erfan-nemati" /> </p>
 
 - 💬 Ask me about **python , js ,html ,css**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
